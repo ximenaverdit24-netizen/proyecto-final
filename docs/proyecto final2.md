@@ -56,7 +56,7 @@ El programa implementa una plataforma **Stewart** controlada por gestos de la ma
 ---
 ## 2) Imagen del proyecto ⌨
 
-<img src="docs/recursos/imgs/WhatsApp Image 2025-12-08 at 12.25.57 PM.jpeg" alt="ESTRUCTURA PIRNCIPAL DE LA BASE" width="420">
+<img src="hola.jpeg" alt="ESTRUCTURA PIRNCIPAL DE LA BASE" width="420">
 
 ---
 ## 3) Código ⌨️
