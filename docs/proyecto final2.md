@@ -4,7 +4,7 @@ El programa implementa una plataforma **Stewart** controlada por gestos de la ma
  
 ## 1) Resumén  📌
  
-- **Equipo / Autor(es):** Emmanuel Angeles Barreto  
+- **Equipo / Autor(es):** Ximena Guadalupe Verdi Toledo
 - **Curso / Asignatura:** Elementos Programables II  
 - **Fecha:** 07/12/25  
  
